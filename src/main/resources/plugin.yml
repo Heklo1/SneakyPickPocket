@@ -1,0 +1,10 @@
+name: SneakyPickPocket
+version: ${project.version}
+main: me.heklo.sneakypickpocket.SneakyPickPocket
+api-version: 1.19
+softdepend: [ WorldGuard ]
+authors: [ Heklo ]
+description: A basic spigot plugin allowing for players to pickpocket others.
+commands:
+  pickpocketreload:
+    aliases: [ ppreload ]

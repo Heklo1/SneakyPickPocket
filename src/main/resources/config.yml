@@ -1,0 +1,10 @@
+# PickPocket config
+
+# Threshold for how directly behind the target the thief must be.
+angle-threshold: 10
+
+# Threshold for how close the thief must be to the target, in blocks.
+distance-threshold: 1.5
+
+# How likely the player is to get caught every time they click on a slot.
+failure-chance: 0.2
